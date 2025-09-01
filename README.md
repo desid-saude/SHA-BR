@@ -9,9 +9,9 @@ Objetivo: Estimar os gastos em saúde por esquemas de financiamento (financiamen
 Cobertura temporal: Ano de referência 2022.
 
 Fontes de dados:
-Orçamentos públicos federais (SIAFI, SIGA Brasil, SIOPS)
-Sistemas de informação em saúde (SIA-SUS, SIH, SISAB-SUS, SIGTAP, CNES)
-Seguros de saúde privados (SIP e TISS, ANS)
-Pesquisa de Orçamentos Familiares (POF/IBGE)
-Portais de Transparência estaduais
-Outras fontes (PMC, IRPF, FNS etc.) 
+Orçamentos públicos federais (SIAFI, SIGA Brasil, SIOPS);
+Sistemas de informação em saúde (SIA-SUS, SIH, SISAB-SUS, SIGTAP, CNES);
+Seguros de saúde privados (SIP e TISS, ANS);
+Pesquisa de Orçamentos Familiares (POF/IBGE);
+Portais de Transparência estaduais;
+Outras fontes (PMC, IRPF, FNS etc.).
